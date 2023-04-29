@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  
+  }
+  
+  content{
+    background-color: #1A113C;
+    display: flex;
+    flex: 1;
+     
+    flex-direction: column;
+   }
+  
+  #top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #top span {
+    color:#6666FF;
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+  
+  }
+  
+  hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #392561;
+   
+  }
+  
+  .activeUsersSpan1{
+    color:white;
+    font-size:1.3rem;
+    padding-right:2em;
+  }
+  .activeUsersSpan2{
+    font-size:0.5rem;
+  padding-right:0.5em;
+  
+  }
+  
+  #footer{
+    bottom:0;
+  position: absolute;
+  width: 100%;
+   padding-left: 2em;
+   padding-right: 2em;
+  text-align: center;
+   
+   }
+  
+   
+  
+  
