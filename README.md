@@ -9,7 +9,8 @@ Express.js Socket.IO ve React (Vite) ile geliştirdiğim sohbet uygulaması.
  [Canlı Test Ortamı
 ](https://chat-app-client-tau-eight.vercel.app/) 
 
-### `Server` [Chat Client](https://github.com/burakc3tin/chat-app-server)
+### `Server` 
+[Chat Server](https://github.com/burakc3tin/chat-app-server)
 
 ### `Ekran Görüntüleri`
 
